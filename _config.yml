@@ -5,9 +5,8 @@ defaults:
       type: "pages"
     values:
       layout: "default"
-      author: "Sarah Murto"
+      author: "Nobody"
       category: "site"
-subtitle: ""
 baseurl: /jekyllBase
 permalink: none
 title: Jekyll Base Default Title
