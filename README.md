@@ -4,6 +4,10 @@ To use this project for a Jekyll website hosted on GitHub, clone or download thi
 
 From the location of your repository, simply run ‘Jekyll Server’ in a command line prompt (while editing your gh-pages branch). You may then begin editing the templates to build the site you desire.
 
+Git push to upload your code, and GitHub will automatically publish the site. You will need a repo named [your github username].github.io, even if you only plan on using project pages. Your site will then be available under [your github username].github.io/[repository name].
+
+If the site fails, GitHub will send you an e-mail with the line number of the error.
+
 More information on Jekyll is available here. https://jekyllrb.com/
 
 A good tutorial on Jekyll Installation is available here: http://jekyll-windows.juthilo.com/2-jekyll-gem/
