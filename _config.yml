@@ -7,7 +7,7 @@ defaults:
       layout: "default"
       author: "Nobody"
       category: "site"
-baseurl: /jekyllBase
+baseurl: ""
 permalink: none
 title: Jekyll Base Default Title
 kramdown:
